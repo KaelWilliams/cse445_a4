@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<schema>
+
+	<element name="Hotels">
+		<complexType>
+			<sequence>
+				<element name="Hotel" minOccurs="1" maxOccurs="unbounded"/>
+			</sequence>
+		</complexType>
+	</element>
+
+	<element name="Hotel">
+		<complexType>
+			<sequence>
+				<element name="Name" minOccurs="1" maxOccurs="1"/>
+				<element name="Phone" minOccurs="1" maxOccurs="unbounded"/>
+				<element name="Address" minOccurs="1" maxOccurs="1"/>
+				<element name="Rating" minOccurs="0" maxOccurs="1"/>
+			</sequence>
+		</complexType>
+	</element>
+
+	<element name="Address">
+		<complexType>
+			<sequence>
+				<element name="Number" minOccurs="1" maxOccurs="1"/>
+				<element name="Street" minOccurs="1" maxOccurs="1"/>
+				<element name="City" minOccurs="1" maxOccurs="1"/>
+				<element name="State" minOccurs="1" maxOccurs="1"/>
+				<element name="Zip" minOccurs="1" maxOccurs="1"/>
+				<element name="NearestAirport" minOccurs="0" maxOccurs="1"/>
+			</sequence>
+		</complexType>
+	</element>
+
+	<element name="Name" type="string"/>
+
+	<element name="Phone" type="string"/>
+
+	<element name="Rating" type="string"/>
+
+	<element name="Number" type="string"/>
+	<element name="Street" type="string"/>
+	<element name="City" type="string"/>
+	<element name="State" type="string"/>
+	<element name="Zip" type="string"/>
+	<element name="NearestAirport" type="string"/>
+
+</schema>
