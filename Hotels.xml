@@ -144,7 +144,21 @@
 		</Address>
 		<Rating>4.5</Rating>
 	</Hotel>
+
+	<Hotel>
+		<Name>Beverly Hills</Name>
+		<Phone>310-276-2251</Phone>
+		<Address>
+			<Number>9641</Number>
+			<Street>Sunset Boulevard</Street>
+			<City>Beverly Hills</City>
+			<State>CA</State>
+			<Zip>90210</Zip>
+			<NearestAirport>Los Angeles</NearestAirport>
+		</Address>
+	</Hotel>
 </Hotels>
+
 
 
 
