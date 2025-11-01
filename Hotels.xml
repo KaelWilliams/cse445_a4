@@ -15,4 +15,131 @@
 		</Address>
 		<Rating>4.2</Rating>
 	</Hotel>
+
+	<Hotel>
+		<Name>Azure Hotel</Name>
+		<Phone>480-621-6375</Phone>
+		<Address>
+			<Number>651</Number>
+			<Street>E.Main St</Street>
+			<City>Mesa</City>
+			<State>AZ</State>
+			<ZIP>85203</ZIP>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>4.1</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hyatt Regency</Name>
+		<Phone>602-252-1234</Phone>
+		<Address>
+			<Number>122</Number>
+			<Street>N.Second St</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<ZIP>85004</ZIP>
+			<NearestAirport>Sky Harbor</NearestAirport>
+		</Address>
+		<Rating>4.1</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Broadmoor</Name>
+		<Phone>855-634-7711</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Lake Avenue</Street>
+			<City>Colorado Springs</City>
+			<State>CO</State>
+			<ZIP>80906</ZIP>
+			<NearestAirport>Colorado Springs</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hotel del Coronado</Name>
+		<Phone>619-435-6611</Phone>
+		<Phone>800-468-3533-5</Phone>
+		<Address>
+			<Number>1500</Number>
+			<Street>Orange Ave</Street>
+			<City>Coronado</City>
+			<State>CA</State>
+			<ZIP>92118</ZIP>
+			<NearestAirport>San Diego International</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Peninsula</Name>
+		<Phone>312-337-2888</Phone>
+		<Phone>866-288-8889</Phone>
+		<Address>
+			<Number>108</Number>
+			<Street>E Superior St</Street>
+			<City>Chicago</City>
+			<State>IL</State>
+			<ZIP>60611</ZIP>
+			<NearestAirport>Midway</NearestAirport>
+		</Address>
+		<Rating>4.7</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Omni Grove Park</Name>
+		<Phone>800-438-5800</Phone>
+		<Phone>828-252-2711</Phone>
+		<Address>
+			<Number>290</Number>
+			<Street>Macon Avenue</Street>
+			<City>Asheville</City>
+			<State>NC</State>
+			<ZIP>28804</ZIP>
+			<NearestAirport>Asheville Regional</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Peabody</Name>
+		<Phone>901-529-4000</Phone>
+		<Phone>800-732-2639</Phone>
+		<Address>
+			<Number>149</Number>
+			<Street>Union Avenue</Street>
+			<City>Memphis</City>
+			<State>TN</State>
+			<ZIP>38103</ZIP>
+			<NearestAirport>Memphis International</NearestAirport>
+		</Address>
+	</Hotel>
+
+	<Hotel>
+		<Name>Fairmont</Name>
+		<Phone>415-772-5000</Phone>
+		<Phone>866-540-4491</Phone>
+		<Address>
+			<Number>950</Number>
+			<Street>Mason Street</Street>
+			<City>San Francisco</City>
+			<State>CA</State>
+			<ZIP>94108</ZIP>
+			<NearestAirport>San Francisco International</NearestAirport>
+		</Address>
+		<Rating>4.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Plaza</Name>
+		<Phone>212-759-3000</Phone>
+		<Address>
+			<Number>768</Number>
+			<Street>Fifth Avenue</Street>
+			<City>New York</City>
+			<State>NY</State>
+			<ZIP>10019</ZIP>
+			<NearestAirport>LaGuardia</NearestAirport>
+		</Address>
+		<Rating>4.5</Rating>
+	</Hotel>
 </Hotels>
