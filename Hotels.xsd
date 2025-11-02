@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <schema
-	xmlns ="http://www.w3.org/2000/10/XMLSchema">
+	xmlns ="http://www.w3.org/2001/XMLSchema">
 
 	<element name="Hotels">
 		<complexType>
@@ -48,6 +48,7 @@
 	<element name="NearestAirport" type="string"/>
 
 </schema>
+
 
 
 
