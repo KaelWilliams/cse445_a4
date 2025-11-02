@@ -2,13 +2,12 @@
 
 <Hotel
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:noNamespaceSchemaLocation="https://github.com/KaelWilliams/cse445_a4/blob/main/Hotels.xsd">
+	xsi:schemaLocation="https://raw.githubusercontent.com/KaelWilliams/cse445_a4/main/Hotels.xsd">
 	<Hotel>
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
 		<Address>
-			<Number>11</Number>
 			<Street>E.7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
@@ -20,10 +19,10 @@
 
 	<Hotel>
 		<Name>Azure Hotel</Name>
-		<Phone>480-621-6375</Phone>
 		<Address>
 			<Number>651</Number>
 			<Street>E.Main St</Street>
+			<City>Mesa</City>
 			<State>AZ</State>
 			<Zip>85203</Zip>
 			<NearestAirport>Sky Harbor</NearestAirport>
@@ -33,7 +32,6 @@
 
 	<Hotel>
 		<Name>Hyatt Regency</Name>
-		<Name>Hyatt</Name>
 		<Phone>602-252-1234</Phone>
 		<Address>
 			<Number>122</Number>
@@ -42,12 +40,12 @@
 			<State>AZ</State>
 			<Zip>85004</Zip>
 			<NearestAirport>Sky Harbor</NearestAirport>
-		</Address>
 		<Rating>4.1</Rating>
 	</Hotel>
 
 	<Hotel>
 		<Name>Broadmoor</Name>
+		<Name>The Broadmoor</Name>
 		<Phone>855-634-7711</Phone>
 		<Address>
 			<Number>1</Number>
@@ -127,11 +125,13 @@
 			<State>CA</State>
 			<Zip>94108</Zip>
 			<NearestAirport>San Francisco International</NearestAirport>
+		</Address>
 		<Rating>4.0</Rating>
 	</Hotel>
 
 	<Hotel>
 		<Name>Plaza</Name>
+		<Phone>212-759-3000</Phone>
 		<Address>
 			<Number>768</Number>
 			<Street>Fifth Avenue</Street>
@@ -156,4 +156,7 @@
 		</Address>
 	</Hotel>
 </Hotels>
+
+
+
 
