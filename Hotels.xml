@@ -3,7 +3,7 @@
 <Hotels
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://raw.githubusercontent.com/KaelWilliams/cse445_a4/main/Hotels.xsd">
-	<Hotel Rating = 4.2>
+	<Hotel Rating = "4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
@@ -16,7 +16,7 @@
 		</Address>
 	</Hotel>
 
-	<Hotel Rating = 4.1>
+	<Hotel Rating = "4.1">
 		<Name>Azure Hotel</Name>
 		<Phone>480-621-6375</Phone>
 		<Address NearestAirport = "Sky Harbor">
@@ -30,6 +30,7 @@
 
 
 </Hotels>
+
 
 
 
