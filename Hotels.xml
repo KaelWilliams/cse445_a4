@@ -3,33 +3,29 @@
 <Hotels
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://raw.githubusercontent.com/KaelWilliams/cse445_a4/main/Hotels.xsd">
-	<Hotel>
+	<Hotel Rating = 4.2>
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address>
+		<Address NearestAirport = "Sky Harbor">
 			<Number>11</Number>
 			<Street>E.7th St</Street>
 			<City>Tempe</City>
 			<State>AZ</State>
 			<Zip>85281</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
-		<Rating>4.2</Rating>
 	</Hotel>
 
-	<Hotel>
+	<Hotel Rating = 4.1>
 		<Name>Azure Hotel</Name>
 		<Phone>480-621-6375</Phone>
-		<Address>
+		<Address NearestAirport = "Sky Harbor">
 			<Number>651</Number>
 			<Street>E.Main St</Street>
 			<City>Mesa</City>
 			<State>AZ</State>
 			<Zip>85203</Zip>
-			<NearestAirport>Sky Harbor</NearestAirport>
 		</Address>
-		<Rating>4.1</Rating>
 	</Hotel>
 
 	<Hotel>
@@ -158,6 +154,7 @@
 		</Address>
 	</Hotel>
 </Hotels>
+
 
 
 
